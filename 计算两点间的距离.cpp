@@ -1,4 +1,4 @@
-# 输入两点坐标（X1,Y1）,（X2,Y2）,计算并输出两点间的距离。
+// 输入两点坐标（X1,Y1）,（X2,Y2）,计算并输出两点间的距离。
 #include <iostream>
 using namespace std;
 int main()
