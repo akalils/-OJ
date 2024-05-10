@@ -1,4 +1,4 @@
-# 根据输入的半径值，计算球的体积。
+// 根据输入的半径值，计算球的体积。
 #define PI 3.1415927
 #include <iostream>
 using namespace std;
